@@ -1,5 +1,5 @@
 ### Welcome! I'm Yago! Let me present a little about myself :D
-Dev Front End focused in Reactjs | Software Engineer
+Dev Front End focused in Reactjs | Computer Engineering :computer:
 ##
 <div align="center">
   <a href="https://github.com/Yago-M-A">
